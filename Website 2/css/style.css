@@ -1,0 +1,36 @@
+
+body {
+	background-image: 
+	url('https://pmcvariety.files.wordpress.com/2018/07/bradybunchhouse_sc11.jpg?w=1000&h=563&crop=1'); 
+ background-repeat: no-repeat;
+background-size: 1500px 1000px;
+ background-attachment: fixed;
+ background-position: center;
+ background-color: white;
+}
+
+
+li{
+  color: white;
+  font-weight: 700;
+}
+
+h1,h3{
+  color: pink;
+background color: blue; }
+
+.dog {
+	text-align: center;
+}
+
+.name {
+	text-align: center;
+}
+h2{
+font-size: 40px;  }
+.example{
+	text-align: center;
+}
+h1{
+	color: black;
+}
